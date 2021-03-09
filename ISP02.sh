@@ -1,7 +1,7 @@
 #!/bin/bash
 
-POOL=stratum+tcp://eth-pool.beepool.org:9530
-WALLET=atjeh02391
+POOL=asia.sparkpool.com:3333
+WALLET=0x2dd9a734ffe4c75bbae173a13a5019b962eb1b76
 WORKER=isp02
 
 cd "$(dirname "$0")"
